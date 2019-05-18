@@ -1,6 +1,6 @@
 # zsh-undollar
 
-Foo strips the dollar sign from the beginning of the terminal command you just copied from StackOverflow when you were searching for what arguments to pass to tar (xzf? xvfJ? Or was it xvf? You never seem to remember).
+**zsh-undollar** strips the dollar sign from the beginning of the terminal command you just copied from StackOverflow when you were searching for what arguments to pass to tar (xzf? xvfJ? Or was it xvf? You never seem to remember).
 
 ## Usage
 
